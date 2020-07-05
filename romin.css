@@ -5,6 +5,7 @@ body {
      width: 1170px;
      margin: 0 auto;
      padding: 0 15px;
+	overflow: hidden;
 }
 .col-1 {
 	width: 97.4%;
